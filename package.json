@@ -1,0 +1,21 @@
+{
+    "name": "gulp-compressor",
+    "description": "A gulp plugin for compressor(minify) html,js and css.",
+    "version": "0.1.0",
+    "author": "Steel Liao <lbbsteel@gmail.com>",
+    "bugs": "https://github.com/steel1990/gulp-compressor/issues",
+    "dependencies": {
+        "easy-compressor": "*",
+        "through2": "*"
+    },
+    "engines": {
+        "node": ">= 0.9"
+    },
+    "homepage": "https://github.com/steel1990/gulp-compressor",
+    "keywords": [
+        "gulpplugin"
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "repository": "https://github.com/steel1990/gulp-compressor.git"
+}
